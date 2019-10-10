@@ -1,0 +1,20 @@
+c:\users\leon\documents\visual studio 2015\Projects\projLivrosLista\projLivrosLista\bin\Debug\projLivrosLista.exe.config
+C:\Users\Leon\Documents\Visual Studio 2015\Projects\projLivrosLista\projLivrosLista\bin\Debug\projLivrosLista.exe
+C:\Users\Leon\Documents\Visual Studio 2015\Projects\projLivrosLista\projLivrosLista\bin\Debug\projLivrosLista.pdb
+C:\Users\Leon\Documents\Visual Studio 2015\Projects\projLivrosLista\projLivrosLista\obj\Debug\projLivrosLista.csprojResolveAssemblyReference.cache
+C:\Users\Leon\Documents\Visual Studio 2015\Projects\projLivrosLista\projLivrosLista\obj\Debug\projLivrosLista.exe
+C:\Users\Leon\Documents\Visual Studio 2015\Projects\projLivrosLista\projLivrosLista\obj\Debug\projLivrosLista.pdb
+E:\2019 - 1º Semestre\ED2 - 471\Aula4_210319\projLivrosLista\projLivrosLista\bin\Debug\projLivrosLista.exe.config
+E:\2019 - 1º Semestre\ED2 - 471\Aula4_210319\projLivrosLista\projLivrosLista\bin\Debug\projLivrosLista.exe
+E:\2019 - 1º Semestre\ED2 - 471\Aula4_210319\projLivrosLista\projLivrosLista\bin\Debug\projLivrosLista.pdb
+E:\2019 - 1º Semestre\ED2 - 471\Aula4_210319\projLivrosLista\projLivrosLista\obj\Debug\projLivrosLista.csprojResolveAssemblyReference.cache
+E:\2019 - 1º Semestre\ED2 - 471\Aula4_210319\projLivrosLista\projLivrosLista\obj\Debug\projLivrosLista.csproj.CoreCompileInputs.cache
+E:\2019 - 1º Semestre\ED2 - 471\Aula4_210319\projLivrosLista\projLivrosLista\obj\Debug\projLivrosLista.exe
+E:\2019 - 1º Semestre\ED2 - 471\Aula4_210319\projLivrosLista\projLivrosLista\obj\Debug\projLivrosLista.pdb
+C:\Users\aluno\Downloads\projLivrosLista-master\projLivrosLista-master\projLivrosLista\bin\Debug\projLivrosLista.exe.config
+C:\Users\aluno\Downloads\projLivrosLista-master\projLivrosLista-master\projLivrosLista\bin\Debug\projLivrosLista.exe
+C:\Users\aluno\Downloads\projLivrosLista-master\projLivrosLista-master\projLivrosLista\bin\Debug\projLivrosLista.pdb
+C:\Users\aluno\Downloads\projLivrosLista-master\projLivrosLista-master\projLivrosLista\obj\Debug\projLivrosLista.csprojResolveAssemblyReference.cache
+C:\Users\aluno\Downloads\projLivrosLista-master\projLivrosLista-master\projLivrosLista\obj\Debug\projLivrosLista.csproj.CoreCompileInputs.cache
+C:\Users\aluno\Downloads\projLivrosLista-master\projLivrosLista-master\projLivrosLista\obj\Debug\projLivrosLista.exe
+C:\Users\aluno\Downloads\projLivrosLista-master\projLivrosLista-master\projLivrosLista\obj\Debug\projLivrosLista.pdb
